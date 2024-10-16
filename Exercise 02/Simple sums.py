@@ -1,4 +1,5 @@
 # Exercise 2: Simple Sums 
+
 """ Steps:
 1. Declare a variable and initialize it with the integer value `8`.
 2. Declare a second variable and initialize it with the integer value `10`.
