@@ -1,4 +1,4 @@
-# Exercise 1: Coding is Cool
+ # Exercise 1: Coding is Cool
 
 """Use string concatenation to combine the variables and print the phrase
 word1 = 
