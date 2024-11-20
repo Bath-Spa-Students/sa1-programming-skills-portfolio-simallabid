@@ -20,7 +20,7 @@ days_in_a_month = {
     10 : 31,
     11 : 30,
     12 : 31 
-    }        #dictionary with month numbers and number of days in those months
+    }         #dictionary with month numbers and number of days in those months
 
 try:                                                           #using try execpt that handles potential errors
     month_num = int(input('Enter the month number (1-12): '))  #takes input from the user
