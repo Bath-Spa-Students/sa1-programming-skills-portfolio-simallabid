@@ -6,5 +6,3 @@ Write a program that searches for a specific string within a list of strings. Th
 names = ['Jake', 'Zac', 'Ian', 'Ron', 'Sam', 'Dave']  #list of names
 if 'Sam' in names:                                    #finding if 'sam' is in the list
     print('Sam is in the list')                       #output if 'sam' is in the list
-    
-    
